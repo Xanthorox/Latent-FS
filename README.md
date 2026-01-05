@@ -381,22 +381,6 @@ Makes abstract AI concepts (embeddings, vector spaces, clustering) tangible and 
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! This project is at the intersection of AI, UX, and systems engineering—there's room for all kinds of expertise.
-
-### Areas for Contribution
-- 🎨 UI/UX improvements
-- 🧠 Alternative clustering algorithms
-- ⚡ Performance optimizations
-- 📚 Documentation and tutorials
-- 🧪 Additional test coverage
-- 🌐 Internationalization
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
----
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) for details.
@@ -422,10 +406,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📬 Contact & Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/xanthorox/latent-fs/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/xanthorox/latent-fs/discussions)
-- 🐦 **Twitter**: [@xanthorox](https://twitter.com/xanthorox)
-- 📧 **Email**: gary@xanthorox.dev
+- 📧 **Email**: xanthorox@protonmail.com
+- **Website**: xanthorox.ai
 
 ---
 
