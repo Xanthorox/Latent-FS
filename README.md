@@ -11,7 +11,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue?logo=typescript)](https://github.com/xanthorox/latent-fs)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
-**[Demo](#-demo) • [Features](#-revolutionary-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Performance](#-performance)**
+**[Demo](#-demo) • [Features](#-revolutionary-features) • [Quick Start](#-quick-start) • [Architecture](#%EF%B8%8F-architecture) • [Performance](#-performance)**
 
 </div>
 
