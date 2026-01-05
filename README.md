@@ -80,7 +80,14 @@ When you move a document to a different semantic folder, Latent-FS doesn't just 
 
 ## 🎥 Demo
 
-> *Coming soon: Watch embeddings reorganize in real-time as you drag documents between semantic clusters*
+
+
+https://github.com/user-attachments/assets/f432fb9d-5ca4-4e9d-bd4f-f3739e7b7b56
+
+
+
+> *The DB i am using is a demo db which have some problem soo u might see some glitching on the video*
+> * Watch embeddings reorganize in real-time as you drag documents between semantic clusters*
 
 ### What You'll See:
 1. **Initial Clustering**: 20 diverse documents automatically organized into 5 semantic folders
